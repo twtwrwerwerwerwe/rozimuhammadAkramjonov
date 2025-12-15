@@ -128,7 +128,6 @@ async def handler(event):
             f"📍 <b>Guruh:</b> {group_display}\n\n"
             f"👤 <b>Egasi:</b> {owner_display}\n\n"
             f"📞 <b>Telefon:</b> {phone_display}\n\n"
-            f"🔗 <b>Profilga o'tish:</b> {profile_link}"
         )
 
         for target_id in TARGET_CHAT_IDS:
