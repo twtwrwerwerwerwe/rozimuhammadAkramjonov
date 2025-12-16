@@ -123,11 +123,10 @@ async def handler(event):
 
         # =================== YUBORILADIGAN XABAR ===================
         message_text = (
-            f"🚖 <b>Yangi e’lon!</b>\n\n"
-            f"📝 <b>Matn:</b>\n{text}\n\n"
+            f"❗️ <b>Yangi e’lon!</❗️b>\n\n"
+            f"👤 <b>Foydalanuvchi:</b> {owner_display}\n\n"
             f"📍 <b>Guruh:</b> {group_display}\n\n"
-            f"👤 <b>Egasi:</b> {owner_display}\n\n"
-            f"📞 <b>Telefon:</b> {phone_display}\n\n"
+            f"<b>Original xabar:</b>\n{text}\n\n"
         )
 
         for target_id in TARGET_CHAT_IDS:
