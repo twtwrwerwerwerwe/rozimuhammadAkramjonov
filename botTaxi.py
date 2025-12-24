@@ -23,8 +23,7 @@ TARGET_CHAT_IDS = [
 KEYWORDS = [
     # odam bor
     'odam bor','odambor','odam bor ekan','odam bor edi','odam borakan',
-    'bitta odam bor','ikkita odam bor','uchta odam bor',"to'rtta odam bor",'tortta odam bor',
-    'olamiz', "yuramiz",
+    'bitta odam bor','ikkita odam bor','uchta odam bor',"to'rtta odam bor",'tortta odam bor', "yuramiz",
     '1ta odam bor','2ta odam bor','3ta odam bor','4ta odam bor',
     'odam bor 1','odam bor 2','odam bor 3','odam bor 4',
     'rishtonga odam bor','toshkentga odam bor',"toshkendan farg'onaga odam bor",
