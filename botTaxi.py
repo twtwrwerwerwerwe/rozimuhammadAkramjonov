@@ -24,7 +24,7 @@ KEYWORDS = [
     # odam bor
     'odam bor','odambor','odam bor ekan','odam bor edi','odam borakan',
     'bitta odam bor','ikkita odam bor','uchta odam bor',"to'rtta odam bor",'tortta odam bor',
-    'komplek odam bor','komplekt odam bor','kompilek odam bor','kampilek odam bor',
+    'olamiz', "yuramiz",
     '1ta odam bor','2ta odam bor','3ta odam bor','4ta odam bor',
     'odam bor 1','odam bor 2','odam bor 3','odam bor 4',
     'rishtonga odam bor','toshkentga odam bor',"toshkendan farg'onaga odam bor",
@@ -33,9 +33,6 @@ KEYWORDS = [
     'towga 3kishi', 'toshkentga 3kishi', "farg'onaga 3kishi", 'rishtonga 3kishi', '3kishi bor',
     'towga 4kishi', 'toshkentga 4kishi', "farg'onaga 4kishi", 'rishtonga 4kishi', '4kishi bor',
     'toshkentdan bir kishi', 'rishtonga bir kishi', '1 ta qiz bor', 'ayol kishi bor mashina sorashyabdi'
-    'Chirchiqdan 1 kishi', 'Yangiyuldan 1 kishi', 'Zangiotadan 1 kishi', 'Qibraydan 1 kishi', '1 kishi bor',
-    '2-ta odam bor', '2-kishi bor', '3-ta odam bor', '3-kishi bor', '4-ta odam bor', '4-kishi bor',
-    '2-ta kishi bor', '3-ta kishi bor', '4-ta kishi bor', '2-ta ayolkishi bor', '3-ta ayolkishi bor', '4-ta ayolkishi bor', "odam.bor", 
     
     # mashina kerak
     'mashina kerak','mashina kere','mashina kerek','mashina kera','mashina keraa',
