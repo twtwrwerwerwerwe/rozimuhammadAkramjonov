@@ -22,21 +22,14 @@ TARGET_CHAT_IDS = [
 # =================== KALIT SO‘ZLAR ===================
 KEYWORDS = [
     # odam bor
-    'odam bor','odambor','odam bor ekan','odam bor edi','odam borakan',
+    'odam bor','odambor','odam bor ekan'
     'bitta odam bor','ikkita odam bor','uchta odam bor',"to'rtta odam bor",'tortta odam bor',
     '1ta odam bor','2ta odam bor','3ta odam bor','4ta odam bor',
     'odam bor 1','odam bor 2','odam bor 3','odam bor 4',
     'rishtonga odam bor','toshkentga odam bor',"toshkendan farg'onaga odam bor",
-    'towga 1kishi', 'toshkentga 1kishi', "farg'onaga 1kishi", 'rishtonga 1kishi', '1kishi bor',
-    'towga 2kishi', 'toshkentga 2kishi', "farg'onaga 2kishi", 'rishtonga 2kishi', '2kishi bor',
-    'towga 3kishi', 'toshkentga 3kishi', "farg'onaga 3kishi", 'rishtonga 3kishi', '3kishi bor',
-    'towga 4kishi', 'toshkentga 4kishi', "farg'onaga 4kishi", 'rishtonga 4kishi', '4kishi bor',
-    'toshkentdan bir kishi', 'rishtonga bir kishi', '1 ta qiz bor', 'ayol kishi bor mashina sorashyabdi'
     
     # mashina kerak
-    'mashina kerak','mashina kere','mashina kerek','mashina kera','mashina keraa',
-    'bagajli mashina kerak','bosh mashina kerak','bosh mashina bormi','boshi bormi',
-    'mashina izlayapman','mashina topaman','mashina kerak edi',
+    'mashina kerak',
 
     # pochta bor
     'pochta bor','pochta kerak','pochta ketadi','pochta olib ketadi','pochta bormi',
